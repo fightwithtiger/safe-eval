@@ -15,7 +15,13 @@
   "bugs": {
     "url": "https://github.com/fightwithtiger/safe-eval/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "eval",
+    "safe-eval",
+    "vm",
+    "es module",
+    "require"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
